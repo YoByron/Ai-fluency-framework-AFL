@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+# Jupyter
+.ipynb_checkpoints
+# VS Code
+.vscode/
+# Data
+*.csv
+*.json
+# Model files
+*.onnx
+# Diagrams
+*.png
