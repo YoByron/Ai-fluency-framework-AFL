@@ -1,0 +1,5 @@
+agents:
+  - name: "DIKSHA Connector"
+    script: "diKSHA_connector.py"
+  - name: "Translation Pipeline"
+    script: "translation_pipeline.py"

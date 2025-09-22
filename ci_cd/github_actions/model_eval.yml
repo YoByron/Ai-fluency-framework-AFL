@@ -1,0 +1,10 @@
+name: Model Evaluation
+
+on: [push, pull_request]
+jobs:
+  evaluate-model:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Model Evaluation
+        run: python shared_resources/scripts/evaluate_model.py

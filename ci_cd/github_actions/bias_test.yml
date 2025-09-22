@@ -1,0 +1,10 @@
+name: Bias Test
+
+on: [push, pull_request]
+jobs:
+  bias-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Bias Test Suite
+        run: python afl2_validator_training/bias_tests/hallucination_detection.py
