@@ -1,3 +1,3 @@
-# AFL-1: Applied Literacy
+# AFL-0: AI Awareness
 
-Sector modules, prompt libraries, and applied evaluation results.
+AFL‑0 is not about turning everyone into an AI expert — it’s about ensuring no one is left behind in the AI era.
