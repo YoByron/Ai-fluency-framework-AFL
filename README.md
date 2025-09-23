@@ -82,6 +82,6 @@ Developed through collaboration between government, academia, and industry partn
 
 ## 📫 Contact
 
-- For implementation support: [implementation@afl.gov.in]
-- For technical queries: [technical@afl.gov.in]
-- For partnerships: [partnerships@afl.gov.in]
+- For implementation support: contact@saketposwal.com
+- For technical queries: contact@saketposwal.com
+- For partnerships: contact@saketposwal.com
