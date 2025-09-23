@@ -1,0 +1,42 @@
+# Cross-Frameworks – Mapping IndiaAI Competencies to AFL Levels
+
+## Overview
+This document cross-maps **IndiaAI’s Competency Framework (2025)** with the **AI Fluency Levels (AFL-0 to AFL-3)**. The integration ensures that AFL is not only aligned with **constitutional compliance** but also complements **public sector competencies** defined by IndiaAI across behavioral, functional, and domain dimensions.
+
+---
+
+## IndiaAI Competency Dimensions
+1. **Behavioral** – curiosity, ethics, adaptability, critical thinking.  
+2. **Functional** – procurement, governance, compliance, digital workflows.  
+3. **Domain-Specific** – agriculture, health, banking, manufacturing, education.  
+
+---
+
+## Cross-Mapping Table
+
+| AFL Level | Core AFL Competencies | IndiaAI Competency Alignment | Integration Method |
+|-----------|-----------------------|------------------------------|--------------------|
+| **AFL-0: AI Aware** | AI recognition, basic ethics, deepfake detection, adoption awareness | **Behavioral**: curiosity & ethics | Add scenario-based awareness modules (e.g., identifying ethical vs. unethical AI use). |
+| **AFL-1: AI User** | Prompting, task automation, output validation, multilingual use, non-work adoption | **Behavioral**: adaptability; **Functional**: basic digital workflows | Include IndiaAI case studies in `/curriculum/afl-1/non-work-applications.md`. |
+| **AFL-2: AI Validator** | Multi-turn conversations, bias detection, content co-creation, training | **Functional**: procurement, governance, compliance | Add sectoral validation rubrics from IndiaAI to `/assessment/afl-2.md`. |
+| **AFL-3: AI Orchestrator** | Workflow design, policy simulation, inference optimization, leadership, CACF oversight | **Domain-Specific**: sectoral deployments; **Functional**: governance, strategy | Add sector-specific modules in `/toolkits/sector-specific/` and integrate with CACF compliance templates. |
+
+---
+
+## Implementation Notes
+- **Curriculum**: Behavioral competencies embedded in early AFL levels (0–1).  
+- **Assessment**: Functional and domain-specific competencies tested in AFL-2 and AFL-3 rubrics.  
+- **Compliance**: Procurement and governance frameworks mapped to CACF standards.  
+- **Toolkits**: Domain-specific templates for agriculture, health, and manufacturing linked to AFL-3 orchestration.  
+
+---
+
+## KPIs
+- 100% alignment of AFL assessments with IndiaAI competencies by 2027.  
+- AFL-2: ≥80% of certified validators demonstrate competency in governance/procurement tasks.  
+- AFL-3: ≥70% of orchestrators deploy AI solutions in at least one IndiaAI domain (e.g., agri, health).  
+
+---
+
+## Outcome
+Cross-linking AFL with IndiaAI ensures that **India’s public sector competencies are embedded within AI fluency training**, creating a unified national framework that is both **constitutionally grounded** and **sector-relevant**. This integration strengthens scalability and adoption across governance, industry, and society.  

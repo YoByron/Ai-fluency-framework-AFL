@@ -1,0 +1,50 @@
+# Curriculum Module – AFL-2 Ethical Deployment
+
+## Overview
+This module strengthens the AFL-2 curriculum with a focus on **ethical deployment of AI**, grounded in insights from the **Stanford AI Index 2025** (responsible AI adoption trends) and **IndiaAI competency framework**. Only ~3.3% of organizations globally have adopted responsible AI practices, highlighting the urgency of embedding **ethics at scale** within AFL training.
+
+---
+
+## Objectives
+- Train AFL-2 learners to identify and mitigate **ethical risks** in AI use.  
+- Equip learners to apply **bias detection and fairness checks** in workflows.  
+- Build capacity for **sectoral case studies** (health, medicine, science, education).  
+- Develop AFL-2 validators as **ethical stewards** who support AFL-1 users.  
+
+---
+
+## Competencies
+1. **Bias Detection**: Recognizing and addressing algorithmic bias.  
+2. **Fairness Validation**: Applying fairness metrics in AI system evaluations.  
+3. **Transparency**: Ensuring explainability of AI outputs.  
+4. **Ethics-in-Action**: Applying constitutional safeguards (non-discrimination, privacy).  
+5. **Sectoral Case Studies**: Learning from AI in medicine/science (responsible deployment).  
+
+---
+
+## Assessment Rubric
+- **Bias Case Study**: Identify ≥3 biases in a given AI system and propose mitigation.  
+- **Fairness Metric Exercise**: Apply fairness metrics to ≥2 sectoral use cases (e.g., loan approvals, medical diagnosis).  
+- **Transparency Audit**: Achieve ≥80% explainability rating in AI output validation tasks.  
+- **Ethics Application**: Demonstrate compliance with Articles 14 & 21 of the Constitution in simulated deployments.  
+
+---
+
+## KPIs
+- ≥80% accuracy in bias identification tasks.  
+- ≥70% improvement in fairness scores across validated systems.  
+- 100% application of transparency audits in assessments.  
+- 100% compliance with CACF ethical benchmarks.  
+
+---
+
+## Tools
+- **Bias Detection Sandbox**: Hands-on simulations with biased datasets.  
+- **Fairness Metrics Library**: Templates for quantitative fairness testing.  
+- **Transparency Dashboard**: AI explainability visualizations.  
+- **Ethics Case Repository**: Real-world cases (AI in medicine, science, education).  
+
+---
+
+## Outcome
+Ethical deployment at AFL-2 ensures that **validators act as the guardians of trust** in AI systems. By embedding fairness, transparency, and constitutional safeguards, AFL-2 learners create a foundation for **scalable and responsible orchestration at AFL-3**.  
