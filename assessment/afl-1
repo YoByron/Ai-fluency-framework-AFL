@@ -1,0 +1,54 @@
+# AFL-1 Assessment Rubric – AI User
+
+## Overview
+AFL-1 represents the **first stage of active AI use**. Citizens at this level should be able to **use AI tools for everyday tasks**, validate their outputs, and detect misinformation. This stage moves beyond awareness to **practical engagement** with AI, ensuring inclusivity across work and non-work domains.
+
+---
+
+## Core Competencies
+- Perform **single-turn prompting** for useful outputs.  
+- Apply AI to **basic task automation** (e.g., drafting, translation, summarization).  
+- Validate outputs and detect hallucinations or errors.  
+- Use AI responsibly in **multilingual and multimodal interactions**.  
+- Apply AI in **non-work and personal contexts**, reflecting global adoption insights (OpenAI/NBER 2025: 70%+ non-work usage).  
+
+---
+
+## Assessment Rubric
+
+**1. Prompt Test**
+- Task: Generate 5 useful outputs across civic, educational, and personal contexts.  
+- **Threshold**: ≥4/5 outputs rated “useful” by evaluators.  
+
+**2. Output Validation**
+- Task: Detect hallucinations in 5 AI-generated responses.  
+- **Threshold**: Correctly identify ≥4/5 inaccuracies.  
+
+**3. Multilingual Application**
+- Task: Use AI in at least 2 Indian languages for translation or voice interaction.  
+- **Threshold**: ≥80% accuracy in comprehension and execution.  
+
+**4. Non-Work Application**
+- Task: Demonstrate one creative, personal, or civic AI use case (e.g., generating study notes, drafting letters, organizing community events).  
+- **Threshold**: Practical application demonstrated with minimal errors.  
+
+---
+
+## KPIs
+- **Population Target**: 500M AFL-1 certified citizens by 2030.  
+- **Accuracy Goal**: ≥85% detection of hallucinations.  
+- **Inclusivity Goal**: At least 40% adoption in rural/low-income areas (Anthropic 2025 insights).  
+- **Usage Metric**: Evidence of both work-related and non-work adoption.  
+
+---
+
+## Tools
+- **Proctored Online Tests**: Multiple-choice + scenario-based.  
+- **Practical Demos**: Hands-on prompting and validation exercises.  
+- **Peer Validation**: AFL-2 users validate AFL-1 tasks.  
+- **Portfolios**: Documented examples of non-work and work-related AI use.  
+
+---
+
+## Outcome
+By achieving AFL-1, citizens transition from awareness to **active and responsible use of AI**—developing the ability to automate tasks, validate AI outputs, and integrate AI into their daily lives while maintaining inclusivity and ethical awareness.  

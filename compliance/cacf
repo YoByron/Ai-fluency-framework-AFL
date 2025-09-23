@@ -1,0 +1,75 @@
+# Constitutional AI Compliance Framework (CACF) – Strengthened with IndiaAI & Research Protocols
+
+## Overview
+The Constitutional AI Compliance Framework (CACF) ensures that AI deployment in India is **grounded in constitutional values** while remaining practical, enforceable, and adaptable. This strengthened version integrates insights from **IndiaAI’s competency framework (2025)** and **AFL research protocols** (federated learning, bias detection, emergency overrides).
+
+---
+
+## Constitutional Anchors
+
+| Parameter            | Constitutional Basis | Measurement Metric                        | Enforcement Mechanism                     | Compliance Threshold |
+|----------------------|----------------------|--------------------------------------------|-------------------------------------------|----------------------|
+| Equality             | Article 14           | Demographic parity analysis                | Tool suspension if variance >5%            | 95% equality score   |
+| Non-Discrimination   | Article 15           | Automated bias detection                   | Contract voidance for verified bias        | >95% neutral outputs |
+| Life & Dignity       | Article 21           | Dignity impact assessment                  | Criminal liability for violations          | 100% compliance      |
+| Linguistic Justice   | Articles 343–351     | Coverage of 22 official languages          | Procurement ban for incomplete coverage    | Full coverage        |
+| Transparency         | RTI Act              | Explainability index for gov. AI decisions | Public audit requirement                   | ≥80% explainable     |
+| Privacy              | Article 21 (expanded)| Data protection compliance                 | GDPR-level penalties                       | Zero tolerance       |
+
+---
+
+## IndiaAI Competency Integration
+IndiaAI’s framework outlines three competency dimensions—behavioral, functional, domain-specific—that enrich CACF:
+
+- **Behavioral (Curiosity, Ethics, Adaptability)**  
+  - Integrated as soft-skill evaluation for all AFL levels.  
+  - Example: AFL-2 validators must demonstrate bias-awareness and ethical judgment.  
+
+- **Functional (Procurement, Governance, Compliance)**  
+  - CACF audits embedded into procurement processes (government AI contracts).  
+  - Standardized compliance APIs required for integration.  
+
+- **Domain-Specific (Agri, Health, Banking)**  
+  - Sectoral templates added to CACF compliance toolkit.  
+  - Example: Healthcare AI systems must pass dignity and bias checks specific to patient data.  
+
+---
+
+## Research Protocol Enhancements
+
+### 1. Federated Learning for Sovereignty
+- Ensures sensitive data remains local while models are trained collaboratively.  
+- **CACF Enforcement**: Federated protocols required for health, education, and government deployments.  
+
+### 2. Bias Detection & Mitigation
+- Ongoing audits with **algorithmic fairness benchmarks**.  
+- Bias thresholds set at ≤5% demographic variance across protected groups.  
+
+### 3. Emergency Override Protocols
+- **Kill-switch mechanisms** mandated for critical infrastructure AI.  
+- Automated alerts to district administrators + NITI Aayog oversight.  
+
+### 4. Blockchain Credential Verification
+- Immutable logs for AI decisions to support RTI Act transparency.  
+- Verifiable credentials for AFL certifications.  
+
+---
+
+## Tools & Mechanisms
+- **Compliance APIs**: Standardized real-time CACF validation for all government AI tools.  
+- **Audit Dashboards**: Public-facing dashboards showing compliance scores by department/district.  
+- **Citizen Grievance Systems**: RTI-based appeal process for AI-related decisions.  
+- **Certification Requirements**: No AI system can be procured without CACF clearance.  
+
+---
+
+## KPIs
+- 95% of government AI systems achieve equality & non-discrimination thresholds.  
+- 100% of AFL-3 orchestrators trained in CACF compliance.  
+- Public dashboards updated quarterly with district-wise compliance.  
+- Zero tolerance for privacy violations; all cases reviewed within 30 days.  
+
+---
+
+## Outcome
+Strengthened with **IndiaAI competencies** and **research-backed safeguards**, CACF moves from abstract ethics to **enforceable constitutional law**—ensuring India’s AI future is democratic, inclusive, and sovereign.  

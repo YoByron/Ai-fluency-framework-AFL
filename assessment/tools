@@ -1,0 +1,83 @@
+# AFL Assessment Tools
+
+## Overview
+This document specifies the tools and methods used to assess competencies across AFL levels (0–3). Tools are designed to ensure scalability, low CAPEX, transparency, and alignment with constitutional compliance. They integrate evidence from 2025 AI reports (Stanford AI Index, Anthropic Economic Index, OpenAI/NBER usage studies, MIT State of AI in Business, NITI Aayog, IndiaAI).
+
+---
+
+## Tool Categories
+
+### 1. Online Proctored Assessments
+- **Description**: AI-powered proctoring with facial recognition, behavior tracking, and anomaly detection.  
+- **Purpose**: Ensure integrity while scaling assessments to millions of candidates.  
+- **Features**:
+  - Cost reduction: 70% lower than traditional proctoring.  
+  - Multilingual interface for 22 Indian languages.  
+  - Privacy safeguards: data retention ≤30 days, GDPR-aligned.  
+
+---
+
+### 2. Practical Demonstrations
+- **Description**: Real-world, scenario-based tasks using actual government or enterprise workflows.  
+- **Purpose**: Evaluate applied AI fluency beyond theory.  
+- **Examples**:
+  - AFL-1: Use AI for civic information retrieval.  
+  - AFL-2: Bias detection in policy drafts.  
+  - AFL-3: Workflow design for district administration.  
+
+---
+
+### 3. Simulation Environments
+- **Description**: Sandbox environments for experimentation with tools, datasets, and workflows.  
+- **Purpose**: Safe space for orchestrators and validators to simulate AI usage.  
+- **Examples**:
+  - Policy simulations (education, health, banking).  
+  - Adaptive deployment pilot studies (from MIT report).  
+
+---
+
+### 4. Peer Validation Networks
+- **Description**: Community-driven assessment layer where certified learners validate each other’s work.  
+- **Purpose**: Reinforce learning ecosystems and scalability.  
+- **Mechanism**:
+  - AFL-2 users validate AFL-1 submissions.  
+  - AFL-3 orchestrators review AFL-2 projects.  
+
+---
+
+### 5. Portfolio-Based Assessment
+- **Description**: Evidence of applied AI fluency captured in personal digital portfolios.  
+- **Purpose**: Demonstrates real-world problem-solving and creativity.  
+- **Examples**:
+  - AFL-1: Documented chatbot-assisted tasks.  
+  - AFL-2: Validated content co-creation workflows.  
+  - AFL-3: End-to-end deployment cases with 20–30% productivity gains.  
+
+---
+
+### 6. Continuous Feedback Dashboards
+- **Description**: Integrated dashboards for learners, trainers, and policymakers.  
+- **Purpose**: Provide real-time assessment feedback and longitudinal tracking.  
+- **Features**:
+  - Adoption metrics (e.g., 40% usage in high-adoption regions – Anthropic).  
+  - Productivity KPIs (e.g., 15–30% gains – NITI Aayog).  
+  - Inference cost monitoring (Stanford).  
+
+---
+
+## Tool Integration by AFL Level
+
+| Level | Primary Tools | Secondary Tools |
+|-------|---------------|-----------------|
+| AFL-0 | Online quizzes, awareness modules | Peer validation (community awareness) |
+| AFL-1 | Practical tasks, proctored tests | Portfolios with non-work applications |
+| AFL-2 | Simulations, bias detection tasks | Peer validation, sector-specific portfolios |
+| AFL-3 | Policy simulations, workflow demos | Cost-optimization exercises, leadership reviews |
+
+---
+
+## Compliance and Verification
+- **Blockchain Credentialing**: All certificates stored on tamper-proof ledger.  
+- **CACF Integration**: Automated compliance checks embedded into assessment tools.  
+- **Fraud Prevention**: AI anomaly detection + random manual audits.  
+- **Transparency**: All assessment data openly available.

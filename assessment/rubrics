@@ -1,0 +1,95 @@
+# AFL Assessment Rubrics – Updated with 2025 KPIs
+
+## Overview
+This document refines the assessment rubrics for AFL certification levels (0–3) by incorporating insights from 2025 AI reports (Stanford, Anthropic, OpenAI/NBER, MIT, NITI Aayog, IndiaAI). The goal is to align measurable competencies with global adoption trends, ensuring consistency, reproducibility, and real-world impact.
+
+---
+
+## AFL-0: AI Aware
+
+**Core Competencies**
+- Identify AI-generated content (text, image, audio, video).  
+- Demonstrate awareness of uneven adoption trends globally and locally.  
+- Recognize misinformation and deepfakes at a basic level.  
+
+**Assessment Rubric**
+- **Awareness Quiz**: ≥80% accuracy in identifying AI vs. human-generated content.  
+- **Trend Literacy**: Correctly answer 3/4 questions on global adoption rates (e.g., 40% US adoption – Anthropic).  
+- **Practical Test**: Identify 3/5 AI-generated deepfakes.  
+
+**KPIs**
+- 90% of candidates achieve ≥75% in awareness quiz.  
+- 70% accuracy in uneven adoption case study scenarios.  
+
+---
+
+## AFL-1: AI User
+
+**Core Competencies**
+- Use AI for single-turn prompting, task automation, and multilingual interaction.  
+- Validate outputs and detect misinformation.  
+- Apply AI in practical non-work and everyday scenarios (from OpenAI usage study).  
+
+**Assessment Rubric**
+- **Prompt Test**: Generate 5 useful outputs across domains.  
+- **Validation**: Detect hallucinations in 4/5 AI responses.  
+- **Practical Use**: Demonstrate one non-work application (creative, personal, or civic).  
+
+**KPIs**
+- 500M citizens AFL-1 certified by 2030.  
+- ≥85% accuracy in hallucination detection.  
+- Evidence of adoption across low-income/rural areas (tracking inclusivity).  
+
+---
+
+## AFL-2: AI Validator
+
+**Core Competencies**
+- Conduct multi-turn conversations and validate AI outputs.  
+- Detect and mitigate bias.  
+- Create AI-assisted content and workflows.  
+- Apply public sector functional competencies (IndiaAI: procurement, governance).  
+- Integrate domain-specific applications (NITI: banking, manufacturing).  
+
+**Assessment Rubric**
+- **Bias Test**: Identify bias in ≥4/5 outputs.  
+- **Source Validation**: Correctly validate 80% of AI-provided references.  
+- **Workflow Creation**: Document one validated workflow with 20% efficiency gain.  
+- **Competency Mapping**: Demonstrate application of functional/behavioral competencies.  
+
+**KPIs**
+- 100M certified by 2032.  
+- 85% accuracy in bias detection.  
+- 2x productivity improvement in pilot use cases (NITI Aayog benchmarks).  
+
+---
+
+## AFL-3: AI Orchestrator
+
+**Core Competencies**
+- Design multi-tool workflows and policy simulations.  
+- Develop curriculum or organizational AI strategies.  
+- Optimize inference costs and deployment models (Stanford AI Index).  
+- Bridge GenAI divide by piloting adaptive systems (MIT).  
+- Lead CACF compliance implementation.  
+
+**Assessment Rubric**
+- **Workflow Design**: End-to-end orchestration with ≥30% efficiency gain.  
+- **Policy Simulation**: Model and present one real-world scenario with measurable impact.  
+- **Cost Awareness**: Demonstrate inference optimization in deployment tasks.  
+- **Leadership**: Train ≥20 individuals to AFL-2 competency.  
+
+**KPIs**
+- 20M certified by 2035.  
+- 20% measurable productivity gain in knowledge-intensive tasks (OpenAI/NBER).  
+- Evidence of cost efficiency: 10% reduction in inference expenses.  
+- 85% of certified orchestrators apply AFL skills in organizational policy/governance.  
+
+---
+
+## Cross-Cutting KPIs (All Levels)
+- Employer satisfaction: ≥85% report productivity gains from AFL-certified employees.  
+- International recognition: AFL certifications mapped to global competency frameworks.  
+- Fraud prevention: 100% credentials blockchain-verified.  
+- Social impact: ≥50% of certified individuals contribute to social good.  
+- Sustainability: ≥50% of certified individuals contribute to sustainable development.
