@@ -1,0 +1,64 @@
+# CACF Compliance Checklist – Sample (Education AI Tutoring System)
+
+## Purpose
+This sample demonstrates CACF compliance for an **AI-powered tutoring and learning support system** designed for K–12 and higher education. Education AI must emphasize **equality, linguistic justice, and dignity**, ensuring that digital learning is inclusive, ethical, and accessible across socio-economic groups.
+
+---
+
+## Section 1 – Constitutional Anchors
+
+| Parameter            | Validation Question                                                   | Status (✔/✘) | Notes |
+|----------------------|-----------------------------------------------------------------------|--------------|-------|
+| **Equality**         | Does the system demonstrate demographic parity (≤5% variance)?        | ✔            | Usage variance between male/female students: 3.5%; balanced across rural/urban learners. |
+| **Non-Discrimination** | Have automated bias tests been conducted across all protected groups? | ✔            | AI content audited for caste/religious bias; flagged 2% instances, corrected with re-training. |
+| **Life & Dignity**   | Has a dignity impact assessment been completed?                       | ✔            | System avoids labeling learners as "slow" or "weak"; instead uses growth-focused language. |
+| **Linguistic Justice** | Is the system available in all 22 scheduled languages?               | ✔            | Full coverage of official languages; 10 regional dialects integrated for rural students. |
+| **Transparency**     | Is the explainability index ≥80% for critical outputs?                | ✔            | Teachers can view reasoning for 87% of grading/recommendation outputs. |
+| **Privacy**          | Does the system comply with data retention and privacy laws?          | ✔            | Student data anonymized; retention capped at academic year +1. |
+
+---
+
+## Section 2 – IndiaAI Competency Alignment
+
+| Competency Type  | Checklist Item                                                | Status (✔/✘) | Notes |
+|------------------|---------------------------------------------------------------|--------------|-------|
+| **Behavioral**   | Have teachers been trained in ethics & curiosity?              | ✔            | Teachers completed AFL-1 awareness & AFL-2 validation workshops. |
+| **Functional**   | Is procurement tied to CACF audit certification?              | ✔            | State education boards mandated CACF clearance in procurement contracts. |
+| **Domain-Specific** | Has the system passed education-specific validation?        | ✔            | Validated against NCERT standards & UNESCO digital education benchmarks. |
+
+---
+
+## Section 3 – Research Protocols
+
+| Protocol                  | Checklist Item                                                            | Status (✔/✘) | Notes |
+|---------------------------|---------------------------------------------------------------------------|--------------|-------|
+| **Federated Learning**    | Is federated training implemented for sensitive datasets?                  | ✔            | School-level data remains local; federated aggregation used across districts. |
+| **Bias Mitigation**       | Are ongoing fairness audits scheduled (≤5% demographic variance)?          | ✔            | Annual audits under Ministry of Education + CACF oversight. |
+| **Emergency Override**    | Is a kill-switch protocol in place for critical infrastructure AI?         | ✔            | Schools can disable AI grading system instantly if errors flagged. |
+| **Blockchain Verification** | Are immutable logs and verifiable credentials implemented?                | ✔            | Exam grades & AI tutoring recommendations logged for verification. |
+
+---
+
+## Section 4 – Governance & Accountability
+
+| Governance Item           | Checklist Item                                               | Status (✔/✘) | Notes |
+|---------------------------|--------------------------------------------------------------|--------------|-------|
+| **Oversight Body**        | Has the system been registered with NITI Aayog/CACF board?   | ✔            | Registered under Education Division, CACF compliance board. |
+| **Audit Schedule**        | Has a quarterly audit plan been created?                     | ✔            | Quarterly review by CBSE & NCERT digital boards. |
+| **Escalation Protocol**   | Are violations reportable to a parliamentary or state body?  | ✔            | Escalation mapped to Parliamentary Standing Committee on Education. |
+| **Citizen Grievance**     | Is there an RTI-based appeal mechanism in place?             | ✔            | Parents/students can appeal grading decisions via RTI or education helplines. |
+
+---
+
+## Final Approval
+- **Compliance Officer Name**: Meera Iyer (Ministry of Education)  
+- **Date of Review**: 23 September 2025  
+- **System Name/ID**: EduAI-Tutor v4.0  
+- **Approval Status**: ☑ Approved ☐ Rejected ☐ Conditional  
+
+---
+
+## Outcome
+This education compliance sample ensures that **AI tutoring systems are inclusive, transparent, and learner-centered**. It safeguards students’ rights to **equality, dignity, and privacy**, while enhancing trust among teachers, parents, and policymakers.
+
+---

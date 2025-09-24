@@ -1,0 +1,64 @@
+# CACF Compliance Checklist – Sample (Manufacturing AI System)
+
+## Purpose
+This sample demonstrates CACF compliance for a **Manufacturing AI system** used in predictive maintenance, quality assurance, and supply chain optimization. Manufacturing AI impacts both economic productivity and worker rights, requiring strict oversight to ensure **non-discrimination, dignity, and safety**.
+
+---
+
+## Section 1 – Constitutional Anchors
+
+| Parameter            | Validation Question                                                   | Status (✔/✘) | Notes |
+|----------------------|-----------------------------------------------------------------------|--------------|-------|
+| **Equality**         | Does the system demonstrate demographic parity (≤5% variance)?        | ✔            | No evidence of bias in AI-driven worker performance assessments. |
+| **Non-Discrimination** | Have automated bias tests been conducted across all protected groups? | ✔            | Validated: hiring and task allocation AI does not discriminate across gender/caste. |
+| **Life & Dignity**   | Has a dignity impact assessment been completed?                       | ✔            | System avoids demeaning labels (e.g., "low-value worker"); language redesigned. |
+| **Linguistic Justice** | Is the system available in all 22 scheduled languages?               | ✘            | Currently supports 15 languages; rollout to all 22 scheduled by 2026. |
+| **Transparency**     | Is the explainability index ≥80% for critical outputs?                | ✔            | Predictive maintenance alerts have 84% explainability; quality assurance at 88%. |
+| **Privacy**          | Does the system comply with data retention and privacy laws?          | ✔            | Worker data anonymized; retention capped at 2 years. |
+
+---
+
+## Section 2 – IndiaAI Competency Alignment
+
+| Competency Type  | Checklist Item                                                | Status (✔/✘) | Notes |
+|------------------|---------------------------------------------------------------|--------------|-------|
+| **Behavioral**   | Have factory supervisors been trained in ethics & curiosity?   | ✔            | Supervisors completed AFL-1 and AFL-2 competency modules. |
+| **Functional**   | Is procurement tied to CACF audit certification?              | ✔            | Procurement cleared by Ministry of Commerce & Industry. |
+| **Domain-Specific** | Has the system passed manufacturing-specific validation?    | ✔            | Validated by Bureau of Indian Standards (BIS) for AI in manufacturing. |
+
+---
+
+## Section 3 – Research Protocols
+
+| Protocol                  | Checklist Item                                                            | Status (✔/✘) | Notes |
+|---------------------------|---------------------------------------------------------------------------|--------------|-------|
+| **Federated Learning**    | Is federated training implemented for sensitive datasets?                  | ✔            | Machine sensor data kept within plant; federated updates shared. |
+| **Bias Mitigation**       | Are ongoing fairness audits scheduled (≤5% demographic variance)?          | ✔            | Semi-annual audits conducted by Industrial AI Compliance Unit. |
+| **Emergency Override**    | Is a kill-switch protocol in place for critical infrastructure AI?         | ✔            | Kill-switch linked to plant control systems; manual override by shift manager. |
+| **Blockchain Verification** | Are immutable logs and verifiable credentials implemented?                | ✔            | Logs of machine predictions stored for safety and labor audits. |
+
+---
+
+## Section 4 – Governance & Accountability
+
+| Governance Item           | Checklist Item                                               | Status (✔/✘) | Notes |
+|---------------------------|--------------------------------------------------------------|--------------|-------|
+| **Oversight Body**        | Has the system been registered with NITI Aayog/CACF board?   | ✔            | Registered under Manufacturing & Industry Division, CACF board. |
+| **Audit Schedule**        | Has a quarterly audit plan been created?                     | ✔            | First plant-level audit scheduled Q1 2026. |
+| **Escalation Protocol**   | Are violations reportable to a parliamentary or state body?  | ✔            | Escalation mapped to Standing Committee on Industry. |
+| **Citizen Grievance**     | Is there an RTI-based appeal mechanism in place?             | ✔            | Worker unions can appeal AI-related grievances via RTI or labor courts. |
+
+---
+
+## Final Approval
+- **Compliance Officer Name**: Vikram Patel (Ministry of Commerce & Industry)  
+- **Date of Review**: 24 September 2025  
+- **System Name/ID**: ManuAI-FactoryOps v2.6  
+- **Approval Status**: ☑ Approved ☐ Rejected ☐ Conditional  
+
+---
+
+## Outcome
+This manufacturing compliance sample ensures that **AI deployment in factories enhances productivity while protecting worker rights**. Sector-specific focus areas are **safety, fairness in worker evaluation, and transparency of predictions**, supporting responsible industrial AI adoption.
+
+---

@@ -1,0 +1,64 @@
+# CACF Compliance Checklist – Sample (Healthcare AI Diagnosis System)
+
+## Purpose
+This sample illustrates the use of the **CACF Compliance Checklist** for a **healthcare AI system** that assists doctors in preliminary diagnoses and treatment recommendations. Healthcare is a high-risk domain requiring **maximum dignity, privacy, and accuracy safeguards**.
+
+---
+
+## Section 1 – Constitutional Anchors
+
+| Parameter            | Validation Question                                                   | Status (✔/✘) | Notes |
+|----------------------|-----------------------------------------------------------------------|--------------|-------|
+| **Equality**         | Does the system demonstrate demographic parity (≤5% variance)?        | ✔            | Tested across gender, caste, and rural/urban patients: variance 2.7%. |
+| **Non-Discrimination** | Have automated bias tests been conducted across all protected groups? | ✔            | Bias audit showed slight skew in rural female dataset; corrected with rebalancing. |
+| **Life & Dignity**   | Has a dignity impact assessment been completed?                       | ✔            | Outputs avoid dehumanizing terms like “low survival case”; wording revised. |
+| **Linguistic Justice** | Is the system available in all 22 scheduled languages?               | ✘            | Currently supports 14; roadmap to full coverage in 24 months. |
+| **Transparency**     | Is the explainability index ≥80% for critical outputs?                | ✔            | Doctors can view reasoning chain for 82% of diagnostic outputs. |
+| **Privacy**          | Does the system comply with data retention and privacy laws?          | ✔            | Patient data anonymized; retention capped at 1 year. |
+
+---
+
+## Section 2 – IndiaAI Competency Alignment
+
+| Competency Type  | Checklist Item                                                | Status (✔/✘) | Notes |
+|------------------|---------------------------------------------------------------|--------------|-------|
+| **Behavioral**   | Have operators been trained in ethics & curiosity?             | ✔            | Doctors and staff trained in AFL-2 bias and ethics modules. |
+| **Functional**   | Is procurement tied to CACF audit certification?              | ✔            | Procurement approved by Ministry of Health with CACF clearance. |
+| **Domain-Specific** | Has the system passed healthcare-specific validation?        | ✔            | Validated against WHO clinical benchmarks and Indian Medical Council guidelines. |
+
+---
+
+## Section 3 – Research Protocols
+
+| Protocol                  | Checklist Item                                                            | Status (✔/✘) | Notes |
+|---------------------------|---------------------------------------------------------------------------|--------------|-------|
+| **Federated Learning**    | Is federated training implemented for sensitive datasets?                  | ✔            | Hospital data remains local; only gradients shared for model improvement. |
+| **Bias Mitigation**       | Are ongoing fairness audits scheduled (≤5% demographic variance)?          | ✔            | Biannual audits under Health Ministry + CACF oversight. |
+| **Emergency Override**    | Is a kill-switch protocol in place for critical infrastructure AI?         | ✔            | Kill-switch integrated with hospital IT systems; manual override by chief physician. |
+| **Blockchain Verification** | Are immutable logs and verifiable credentials implemented?                | ✔            | Logs of AI-generated recommendations stored on blockchain for medical audit trails. |
+
+---
+
+## Section 4 – Governance & Accountability
+
+| Governance Item           | Checklist Item                                               | Status (✔/✘) | Notes |
+|---------------------------|--------------------------------------------------------------|--------------|-------|
+| **Oversight Body**        | Has the system been registered with NITI Aayog/CACF board?   | ✔            | Registered under Health Division, CACF compliance board. |
+| **Audit Schedule**        | Has a quarterly audit plan been created?                     | ✔            | Quarterly review by National Health Authority. |
+| **Escalation Protocol**   | Are violations reportable to a parliamentary or state body?  | ✔            | Escalation mapped to Standing Committee on Health & Family Welfare. |
+| **Citizen Grievance**     | Is there an RTI-based appeal mechanism in place?             | ✔            | Patients can file grievances via RTI or National Health Grievance portal. |
+
+---
+
+## Final Approval
+- **Compliance Officer Name**: Dr. Rakesh Sharma (National Health Authority)  
+- **Date of Review**: 20 September 2025  
+- **System Name/ID**: MediAI-Diagnosis v1.8  
+- **Approval Status**: ☑ Approved ☐ Rejected ☐ Conditional  
+
+---
+
+## Outcome
+This healthcare compliance sample demonstrates how **AI diagnosis systems can be deployed responsibly**, balancing innovation with constitutional rights. It highlights sector-specific priorities: **privacy, dignity, and linguistic justice**, ensuring patient trust and ethical adoption.
+
+---

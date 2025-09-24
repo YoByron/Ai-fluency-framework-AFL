@@ -1,7 +1,7 @@
 # Constitutional AI Compliance Framework (CACF) – Strengthened with IndiaAI & Research Protocols
 
 ## Overview
-The Constitutional AI Compliance Framework (CACF) ensures that AI deployment in India is **grounded in constitutional values** while remaining practical, enforceable, and adaptable. This strengthened version integrates insights from **IndiaAI’s competency framework (2025)** and **AFL research protocols** (federated learning, bias detection, emergency overrides).
+The Constitutional AI Compliance Framework (CACF) ensures that AI deployment in India is **anchored in constitutional values** while remaining **practical, enforceable, and adaptive**. This strengthened version integrates insights from **IndiaAI’s Competency Framework (2025)** and **AFL research protocols** (federated learning, bias detection, emergency overrides, blockchain traceability).  
 
 ---
 
@@ -9,67 +9,76 @@ The Constitutional AI Compliance Framework (CACF) ensures that AI deployment in 
 
 | Parameter            | Constitutional Basis | Measurement Metric                        | Enforcement Mechanism                     | Compliance Threshold |
 |----------------------|----------------------|--------------------------------------------|-------------------------------------------|----------------------|
-| Equality             | Article 14           | Demographic parity analysis                | Tool suspension if variance >5%            | 95% equality score   |
-| Non-Discrimination   | Article 15           | Automated bias detection                   | Contract voidance for verified bias        | >95% neutral outputs |
-| Life & Dignity       | Article 21           | Dignity impact assessment                  | Criminal liability for violations          | 100% compliance      |
-| Linguistic Justice   | Articles 343–351     | Coverage of 22 official languages          | Procurement ban for incomplete coverage    | Full coverage        |
-| Transparency         | RTI Act              | Explainability index for gov. AI decisions | Public audit requirement                   | ≥80% explainable     |
-| Privacy              | Article 21 (expanded)| Data protection compliance                 | GDPR-level penalties                       | Zero tolerance       |
+| **Equality**         | Article 14           | Demographic parity analysis                | Tool suspension if variance >5%            | ≥95% equality score  |
+| **Non-Discrimination** | Article 15        | Automated bias detection                   | Contract voidance + penalties for bias     | >95% neutral outputs |
+| **Life & Dignity**   | Article 21           | Dignity impact assessment                  | Criminal liability for violations          | 100% compliance      |
+| **Linguistic Justice** | Arts. 343–351      | Coverage of 22 official languages          | Procurement ban for incomplete coverage    | Full coverage        |
+| **Transparency**     | RTI Act              | Explainability index for gov. AI decisions | Public audit & citizen appeal              | ≥80% explainable     |
+| **Privacy**          | Article 21 (expanded)| Data protection & retention audits         | GDPR-level penalties & fast-track review   | Zero tolerance       |
 
 ---
 
 ## IndiaAI Competency Integration
-IndiaAI’s framework outlines three competency dimensions—behavioral, functional, domain-specific—that enrich CACF:
+IndiaAI’s three dimensions enrich CACF enforcement:  
 
 - **Behavioral (Curiosity, Ethics, Adaptability)**  
-  - Integrated as soft-skill evaluation for all AFL levels.  
-  - Example: AFL-2 validators must demonstrate bias-awareness and ethical judgment.  
+  - Mandatory in AFL-2 & AFL-3 assessments.  
+  - Example: AFL-2 validators document bias-awareness case logs.  
 
 - **Functional (Procurement, Governance, Compliance)**  
-  - CACF audits embedded into procurement processes (government AI contracts).  
-  - Standardized compliance APIs required for integration.  
+  - CACF audits embedded into **procurement contracts**.  
+  - AI vendors must integrate compliance APIs for real-time checks.  
 
 - **Domain-Specific (Agri, Health, Banking)**  
-  - Sectoral templates added to CACF compliance toolkit.  
-  - Example: Healthcare AI systems must pass dignity and bias checks specific to patient data.  
+  - Sector templates added to CACF toolkit.  
+  - Example: Health AI must pass **dignity, bias, and privacy** thresholds for patient data.  
 
 ---
 
 ## Research Protocol Enhancements
 
 ### 1. Federated Learning for Sovereignty
-- Ensures sensitive data remains local while models are trained collaboratively.  
-- **CACF Enforcement**: Federated protocols required for health, education, and government deployments.  
+- Sensitive data remains local while models train collaboratively.  
+- **CACF Enforcement**: Mandatory for health, education, and government AI systems.  
 
 ### 2. Bias Detection & Mitigation
-- Ongoing audits with **algorithmic fairness benchmarks**.  
-- Bias thresholds set at ≤5% demographic variance across protected groups.  
+- Continuous audits using **algorithmic fairness benchmarks**.  
+- Threshold: ≤5% demographic variance across protected groups.  
 
 ### 3. Emergency Override Protocols
-- **Kill-switch mechanisms** mandated for critical infrastructure AI.  
-- Automated alerts to district administrators + NITI Aayog oversight.  
+- **Kill-switch mechanisms** required for critical infrastructure AI.  
+- Automated alerts to **district administrators + NITI Aayog oversight board**.  
 
 ### 4. Blockchain Credential Verification
-- Immutable logs for AI decisions to support RTI Act transparency.  
-- Verifiable credentials for AFL certifications.  
+- Immutable logs of AI decisions for RTI transparency.  
+- Verifiable credentials for all AFL certifications.  
 
 ---
 
 ## Tools & Mechanisms
-- **Compliance APIs**: Standardized real-time CACF validation for all government AI tools.  
-- **Audit Dashboards**: Public-facing dashboards showing compliance scores by department/district.  
-- **Citizen Grievance Systems**: RTI-based appeal process for AI-related decisions.  
-- **Certification Requirements**: No AI system can be procured without CACF clearance.  
+- **Compliance APIs**: Standardized, real-time CACF validation embedded in all government AI.  
+- **Audit Dashboards**: Public dashboards updated quarterly, showing compliance scores by dept/district.  
+- **Citizen Grievance Systems**: RTI-aligned process for appeals against AI decisions.  
+- **Certification Requirements**: No AI tool may be procured or scaled without CACF clearance.  
+
+---
+
+## Accountability & Governance
+- **Oversight Body**: NITI Aayog + independent CACF compliance board.  
+- **Audit Cadence**: Quarterly audits for all high-risk AI systems.  
+- **Escalation**: Violations reported to Parliament-level committee within 60 days.  
+- **International Benchmarking**: Annual review against OECD and UN AI ethics standards.  
 
 ---
 
 ## KPIs
-- 95% of government AI systems achieve equality & non-discrimination thresholds.  
-- 100% of AFL-3 orchestrators trained in CACF compliance.  
-- Public dashboards updated quarterly with district-wise compliance.  
-- Zero tolerance for privacy violations; all cases reviewed within 30 days.  
+- ≥95% of govt AI systems achieve equality & non-discrimination thresholds.  
+- 100% of AFL-3 orchestrators certified in CACF compliance by 2027.  
+- Public dashboards with compliance data updated every quarter.  
+- All privacy violation cases resolved within **30 days**.  
+- ≥70% adoption of federated learning protocols in sensitive domains by 2030.  
 
 ---
 
 ## Outcome
-Strengthened with **IndiaAI competencies** and **research-backed safeguards**, CACF moves from abstract ethics to **enforceable constitutional law**—ensuring India’s AI future is democratic, inclusive, and sovereign.  
+Strengthened with **IndiaAI competencies** and **research-backed safeguards**, CACF moves beyond abstract ethics into **enforceable constitutional law**. It ensures India’s AI future is **democratic, inclusive, sovereign, and globally benchmarked**, with clear accountability for both government and private actors.  

@@ -1,0 +1,50 @@
+# Curriculum Module – AFL-3 Inference Cost Optimization
+
+## Overview
+This module enhances the AFL-3 curriculum by embedding **inference cost optimization** skills, building on insights from the **Stanford AI Index 2025**, which tracks trends in AI hardware, inference costs, and efficiency benchmarks. Orchestrators must ensure that AI deployments are not only impactful but also **cost-efficient and scalable** for sustainable adoption.
+
+---
+
+## Objectives
+- Train orchestrators to evaluate and optimize **AI inference costs**.  
+- Integrate efficiency metrics into **deployment workflows**.  
+- Align optimization practices with **sectoral needs** (banking, manufacturing, healthcare).  
+- Ensure cost-effectiveness without compromising **accuracy, fairness, or compliance**.  
+
+---
+
+## Competencies
+1. **Inference Benchmarking**: Measure performance across models and platforms.  
+2. **Efficiency Engineering**: Apply model compression, quantization, and distillation.  
+3. **Cost-Performance Trade-offs**: Balance accuracy vs. compute expenditure.  
+4. **Scalable Deployment**: Optimize inference for large-scale rollouts (e.g., district/state level).  
+5. **Compliance Alignment**: Ensure optimization practices maintain CACF safeguards.  
+
+---
+
+## Assessment Rubric
+- **Benchmarking Task**: Compare inference costs across ≥2 models and recommend optimal choice.  
+- **Efficiency Exercise**: Apply ≥1 optimization technique (e.g., quantization) and demonstrate ≥10% cost savings.  
+- **Trade-off Analysis**: Present ≥2 scenarios balancing cost vs. performance, with justified recommendations.  
+- **Deployment Simulation**: Optimize an AFL-3 policy simulation for cost-efficiency while maintaining ≥90% accuracy.  
+
+---
+
+## KPIs
+- ≥10% cost reduction achieved in benchmarked inference tasks.  
+- ≥90% model accuracy maintained post-optimization.  
+- ≥70% of AFL-3 orchestrators demonstrate cost-performance balancing in projects.  
+- 100% optimization workflows documented with compliance validation.  
+
+---
+
+## Tools
+- **Benchmarking Dashboards**: Real-time comparison of inference costs across models.  
+- **Optimization Libraries**: Pre-built scripts for quantization, pruning, distillation.  
+- **Scenario Simulators**: Tools to test cost vs. accuracy trade-offs.  
+- **Compliance Checklists**: Ensure optimization aligns with CACF and sectoral regulations.  
+
+---
+
+## Outcome
+Inference cost optimization enables AFL-3 orchestrators to deploy **scalable, efficient, and sustainable AI systems**. By mastering this competency, orchestrators ensure that AI fluency leads to **real-world impact without prohibitive costs**, supporting mass adoption at national and global levels.  

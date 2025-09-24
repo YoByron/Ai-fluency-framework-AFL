@@ -1,0 +1,64 @@
+# CACF Compliance Checklist – Sample (Agriculture AI Advisory System)
+
+## Purpose
+This sample demonstrates CACF compliance for an **AI-based agriculture advisory system** that provides farmers with crop recommendations, weather alerts, and yield predictions. Agriculture systems must prioritize **linguistic justice, inclusion, and non-discrimination**, since the majority of users are rural smallholders.
+
+---
+
+## Section 1 – Constitutional Anchors
+
+| Parameter            | Validation Question                                                   | Status (✔/✘) | Notes |
+|----------------------|-----------------------------------------------------------------------|--------------|-------|
+| **Equality**         | Does the system demonstrate demographic parity (≤5% variance)?        | ✔            | Tested across landholding size, gender of farmer, and region: variance 4.1%. |
+| **Non-Discrimination** | Have automated bias tests been conducted across all protected groups? | ✔            | No bias detected between large and small farmers in fertilizer recommendations. |
+| **Life & Dignity**   | Has a dignity impact assessment been completed?                       | ✔            | System avoids degrading terms (e.g., “low productivity farmer”). |
+| **Linguistic Justice** | Is the system available in all 22 scheduled languages?               | ✔            | Supports 22 official languages + 8 major regional dialects. |
+| **Transparency**     | Is the explainability index ≥80% for critical outputs?                | ✘            | Current explainability = 72%; roadmap to reach 85% in 12 months. |
+| **Privacy**          | Does the system comply with data retention and privacy laws?          | ✔            | Farmers’ personal/landholding data anonymized; retention 2 years max. |
+
+---
+
+## Section 2 – IndiaAI Competency Alignment
+
+| Competency Type  | Checklist Item                                                | Status (✔/✘) | Notes |
+|------------------|---------------------------------------------------------------|--------------|-------|
+| **Behavioral**   | Have extension officers been trained in ethics & curiosity?    | ✔            | Officers completed AFL-1 and AFL-2 modules. |
+| **Functional**   | Is procurement tied to CACF audit certification?              | ✔            | Procurement mandated by Ministry of Agriculture. |
+| **Domain-Specific** | Has the system passed agriculture-specific validation?       | ✔            | Validated against ICAR (Indian Council of Agricultural Research) benchmarks. |
+
+---
+
+## Section 3 – Research Protocols
+
+| Protocol                  | Checklist Item                                                            | Status (✔/✘) | Notes |
+|---------------------------|---------------------------------------------------------------------------|--------------|-------|
+| **Federated Learning**    | Is federated training implemented for sensitive datasets?                  | ✔            | District-level crop and soil data remain local; federated aggregation used. |
+| **Bias Mitigation**       | Are ongoing fairness audits scheduled (≤5% demographic variance)?          | ✔            | Annual audits under Agriculture Ministry + CACF oversight. |
+| **Emergency Override**    | Is a kill-switch protocol in place for critical infrastructure AI?         | ✔            | Weather-related advisory system has manual override via district officer. |
+| **Blockchain Verification** | Are immutable logs and verifiable credentials implemented?                | ✔            | Crop advisory logs stored for grievance redressal and subsidy audits. |
+
+---
+
+## Section 4 – Governance & Accountability
+
+| Governance Item           | Checklist Item                                               | Status (✔/✘) | Notes |
+|---------------------------|--------------------------------------------------------------|--------------|-------|
+| **Oversight Body**        | Has the system been registered with NITI Aayog/CACF board?   | ✔            | Registered under Agriculture Division, CACF compliance board. |
+| **Audit Schedule**        | Has a quarterly audit plan been created?                     | ✔            | Quarterly review by Agriculture Technology Division, Govt. of India. |
+| **Escalation Protocol**   | Are violations reportable to a parliamentary or state body?  | ✔            | Escalation mapped to Standing Committee on Agriculture. |
+| **Citizen Grievance**     | Is there an RTI-based appeal mechanism in place?             | ✔            | Farmers can appeal via RTI or Kisan Call Centers. |
+
+---
+
+## Final Approval
+- **Compliance Officer Name**: Sunita Rao (Ministry of Agriculture)  
+- **Date of Review**: 22 September 2025  
+- **System Name/ID**: AgriAI-Advisory v3.5  
+- **Approval Status**: ☑ Approved ☐ Rejected ☐ Conditional  
+
+---
+
+## Outcome
+This agriculture compliance sample ensures that **AI-driven crop advisories are inclusive, multilingual, and unbiased**, safeguarding smallholder farmers while supporting national food security. Sector-specific attention is given to **linguistic justice and transparency**, critical for rural trust-building.
+
+---

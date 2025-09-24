@@ -1,0 +1,64 @@
+# CACF Compliance Checklist – Sample (AI Credit Scoring System)
+
+## Purpose
+This sample illustrates how the **CACF Compliance Checklist** can be filled out for a real-world deployment—in this case, an **AI-based credit scoring system** used by public and private banks.
+
+---
+
+## Section 1 – Constitutional Anchors
+
+| Parameter            | Validation Question                                                   | Status (✔/✘) | Notes |
+|----------------------|-----------------------------------------------------------------------|--------------|-------|
+| **Equality**         | Does the system demonstrate demographic parity (≤5% variance)?        | ✔            | Variance = 3.2% across gender categories. |
+| **Non-Discrimination** | Have automated bias tests been conducted across all protected groups? | ✔            | Tested on caste, gender, and income groups; flagged and corrected anomalies. |
+| **Life & Dignity**   | Has a dignity impact assessment been completed?                       | ✔            | System disallows outputs labeling individuals as "high-risk human liabilities". |
+| **Linguistic Justice** | Is the system available in all 22 scheduled languages?               | ✘            | Currently supports 12 languages; expansion roadmap in 18 months. |
+| **Transparency**     | Is the explainability index ≥80% for critical outputs?                | ✔            | Explainability = 86% with SHAP-based model auditing. |
+| **Privacy**          | Does the system comply with data retention and privacy laws?          | ✔            | Compliant with GDPR-equivalent standards; retention capped at 3 years. |
+
+---
+
+## Section 2 – IndiaAI Competency Alignment
+
+| Competency Type  | Checklist Item                                                | Status (✔/✘) | Notes |
+|------------------|---------------------------------------------------------------|--------------|-------|
+| **Behavioral**   | Have developers/operators been trained in ethics & curiosity? | ✔            | All operators completed AFL-2 ethics modules. |
+| **Functional**   | Is procurement tied to CACF audit certification?              | ✔            | Vendor contract included CACF compliance clause. |
+| **Domain-Specific** | Has the system passed sectoral tests (health, agri, banking)? | ✔            | Passed banking-sector validation with RBI oversight. |
+
+---
+
+## Section 3 – Research Protocols
+
+| Protocol                  | Checklist Item                                                            | Status (✔/✘) | Notes |
+|---------------------------|---------------------------------------------------------------------------|--------------|-------|
+| **Federated Learning**    | Is federated training implemented for sensitive datasets?                  | ✔            | Credit bureau and bank-level data remain local; only model weights shared. |
+| **Bias Mitigation**       | Are ongoing fairness audits scheduled (≤5% demographic variance)?          | ✔            | Quarterly audits scheduled with RBI + CACF auditors. |
+| **Emergency Override**    | Is a kill-switch protocol in place for critical infrastructure AI?         | ✔            | Kill-switch integrated with RBI regulatory control. |
+| **Blockchain Verification** | Are immutable logs and verifiable credentials implemented?                | ✔            | Loan approval/rejection logs stored on blockchain for audit. |
+
+---
+
+## Section 4 – Governance & Accountability
+
+| Governance Item           | Checklist Item                                               | Status (✔/✘) | Notes |
+|---------------------------|--------------------------------------------------------------|--------------|-------|
+| **Oversight Body**        | Has the system been registered with NITI Aayog/CACF board?   | ✔            | Registered under CACF Banking Division. |
+| **Audit Schedule**        | Has a quarterly audit plan been created?                     | ✔            | First audit scheduled Q1 2026. |
+| **Escalation Protocol**   | Are violations reportable to a parliamentary or state body?  | ✔            | Escalation mapped to Ministry of Finance and Standing Committee. |
+| **Citizen Grievance**     | Is there an RTI-based appeal mechanism in place?             | ✔            | Citizens can file AI-related grievances under RBI Ombudsman scheme. |
+
+---
+
+## Final Approval
+- **Compliance Officer Name**: Ananya Mehta (RBI)  
+- **Date of Review**: 12 September 2025  
+- **System Name/ID**: AI-CreditScore v2.3  
+- **Approval Status**: ☑ Approved ☐ Rejected ☐ Conditional  
+
+---
+
+## Outcome
+This filled-out sample demonstrates how ministries, regulators, and vendors can **practically apply CACF**. It highlights strengths (bias mitigation, transparency, federated learning) and gaps (linguistic justice), offering a **model reference** for other sectors such as healthcare and agriculture.
+
+---
