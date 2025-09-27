@@ -1,4 +1,18 @@
-# AI Fluency Framework (AFL)
+# AI Fluency Framework (AFL) - Updated September 26, 2025
+
+Welcome to the AI Fluency Levels (AFL) framework repository! This open-source project operationalizes mass AI fluency for Viksit Bharat 2047, shifting focus from building AI models to building AI-fluent minds. Based on the research paper "AI Fluency, Not AI Factories" (latest: v6.0), we provide tools for certification, compliance, and implementation.
+
+## Key Updates (September 2025)
+- **Fresh Data Integration**: Updated stats from TRAI (1,002.85M internet subscribers as of June 2025, ~55.9% penetration), McKinsey State of AI 2025 (59% Indian companies implemented AI, leading globally), Stanford AI Index 2025 (India ranks 2nd in AI GitHub projects, 10th in investments), WEF Future of Jobs 2025 (50% global workers need AI reskilling by 2027; in India, 2/3 firms tapping diverse talent pools), and NITI Aayog (AI could add $600B to GDP by 2035).
+- **Alignment with SMF 2025 Conference**: AFL ties into tracks like Ethical AI, Human Capital Resilience, and Participatory Policymaking. See docs/conference-alignment-smf2025.md for details.
+- **Empirical Enhancements**: Added sensitivity analysis in toolkits/ for productivity projections (10-20% gains). Seeking contributors for pilots!
+
+## Getting Star
+- Explore /curriculum for AFL tiers.
+- Use /compliance/cacf for constitutional ethics checklists.
+- Run simulations in /toolkits/sensitivity-analysis.md.
+
+
 
 > Building the world's first AI-augmented democracy through mass fluency, not model supremacy.
 
