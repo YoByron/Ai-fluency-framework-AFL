@@ -1,101 +1,35 @@
-# AI Fluency Framework (AFL) - Updated September 26, 2025
+# AI Fluency Framework (AFL)
 
-Welcome to the AI Fluency Levels (AFL) framework repository! This open-source project operationalizes mass AI fluency for Viksit Bharat 2047, shifting focus from building AI models to building AI-fluent minds. Based on the research paper "AI Fluency, Not AI Factories" (latest: v6.0), we provide tools for certification, compliance, and implementation.
+Operational toolkit to build mass AI fluency for Viksit Bharat 2047. Focus: build AI‑fluent people and workflows, with Constitutional AI Compliance (CACF) safeguards.
 
-## Key Updates (September 2025)
-- **Fresh Data Integration**: Updated stats from TRAI (1,002.85M internet subscribers as of June 2025, ~55.9% penetration), McKinsey State of AI 2025 (59% Indian companies implemented AI, leading globally), Stanford AI Index 2025 (India ranks 2nd in AI GitHub projects, 10th in investments), WEF Future of Jobs 2025 (50% global workers need AI reskilling by 2027; in India, 2/3 firms tapping diverse talent pools), and NITI Aayog (AI could add $600B to GDP by 2035).
-- **Alignment with SMF 2025 Conference**: AFL ties into tracks like Ethical AI, Human Capital Resilience, and Participatory Policymaking. See docs/conference-alignment-smf2025.md for details.
-- **Empirical Enhancements**: Added sensitivity analysis in toolkits/ for productivity projections (10-20% gains). Seeking contributors for pilots!
+## Goals
+- 500M AFL‑1 citizens by 2030; measurable productivity gains across sectors
+- CACF‑aligned deployment (Articles 14/15/21/21A) with audits and grievance paths
 
-## Getting Star
-- Explore /curriculum for AFL tiers.
-- Use /compliance/cacf for constitutional ethics checklists.
-- Run simulations in /toolkits/sensitivity-analysis.md.
+## Quick Navigation
+- Framework overview: framework/afl/overview.md; AFL↔CAFF: framework/integration-matrix.md
+- Curricula: curriculum/{afl1,afl2,afl3,afl4,afl5}/afl-*.md; sectors: curriculum/sectors/*
+- Assessments: assessment/afl/afl{0..5}/{rubric.md,templates.md,samples/}
+- CACF: compliance/cacf_compliance/{overview.md,implementation_guide.md}
+- Toolkits: toolkits/{training,admin,organizations,policymakers,learners,shared_resources}
+- Economic impact: economic_impact/{README.md,productivity_calculator.py}
+- Implementation: implementation/{pilots,infrastructure}
+- Policy brief: docs/governance/policy_brief.md (root: POLICY_BRIEF.md)
+- Case studies: case_studies/*/*
 
+## Getting Started
+- Learners: toolkits/learners/self_assessment.md → assessment/afl/afl1/samples/prompt_lab.md
+- Trainers: toolkits/training/train-the-trainer.md; lesson_plans/; slide_decks/
+- Admins: toolkits/admin/program_management.md; shared_resources/templates/*.csv
+- Organizations: toolkits/organizations/{corporate_implementation.md,government_deployment.md}
+- Policymakers: docs/governance/policy_brief.md; toolkits/policymakers/policy_action_checklist.md
 
+## Run Useful Tools
+- ROI calculator: python economic_impact/productivity_calculator.py --scenario base --years 5 --investment-crores 8000 --crores
+- Sensitivity: python tools/sensitivity-analysis/monte_carlo.py
+- CACF demo checks: sh tools/compliance-checker/run_examples.sh  (PowerShell: tools\compliance-checker\run_examples.ps1)
 
-> Building the world's first AI-augmented democracy through mass fluency, not model supremacy.
+## Contributing
+See CONTRIBUTING.md. Focus areas: curricula, assessments, CACF, sector modules, pilots, translations, dashboards.
 
-The AI Fluency Framework (AFL) is a comprehensive system for developing and certifying AI competencies at scale, designed to transform India into the world's first AI-augmented democracy.
-
-## 🎯 Core Objectives
-
-- Create 500 million AFL-1 certified citizens by 2030
-- Achieve 30% average productivity gains across sectors
-- Ensure ethical AI deployment through Constitutional AI Compliance
-- Enable democratic participation in the AI revolution
-
-## 🏗️ Framework Structure
-
-### Certification Levels
-
-| Level | Description | Target Population | Timeline |
-|-------|-------------|-------------------|----------|
-| AFL-0 | AI Aware | 100% above age 10 | 2028 |
-| AFL-1 | AI User | 500M citizens | 2030 |
-| AFL-2 | AI Validator | 100M citizens | 2032 |
-| AFL-3 | AI Orchestrator | 20M citizens | 2035 |
-
-### Key Components
-
-1. **Curriculum Modules**: Structured learning paths for each AFL level
-2. **Assessment Tools**: Standardized evaluation mechanisms
-3. **CACF Implementation**: Constitutional AI Compliance Framework
-4. **Deployment Toolkits**: Resources for trainers and administrators
-
-## 🚀 Getting Started
-
-### For Learners
-
-1. Start with the [AFL-0 Self-Assessment](./assessment/afl-0/)
-2. Complete the [AFL-0 Core Modules](./curriculum/afl-0/)
-3. Take the [Certification Assessment](./assessment/tools/)
-
-### For Trainers
-
-1. Review the [Trainer's Toolkit](./toolkits/trainers/)
-2. Access [Curriculum Resources](./curriculum/)
-3. Learn about [Assessment Methods](./assessment/rubrics/)
-
-### For Organizations
-
-1. Implement [CACF Compliance](./compliance/cacf/)
-2. Access [Administrative Tools](./toolkits/administrators/)
-3. Review [Implementation Guides](./docs/implementation-guides/)
-
-## 📊 Impact Metrics
-
-- **Economic**: 3.2-5.8% additional GDP growth
-- **Social**: Democratized AI access across demographics
-- **Innovation**: Enhanced human-AI collaboration capability
-- **Governance**: Constitutional alignment of AI deployment
-
-## 🤝 Contributing
-
-We welcome contributions! See our [Contribution Guide](./contribute/CONTRIBUTING.md) for details on:
-
-- Curriculum enhancement
-- Assessment tool development
-- Case study submissions
-- Translation support
-- Implementation feedback
-
-## 📜 License
-
-This framework is released under [MIT License](LICENSE) to encourage widespread adoption while maintaining quality standards.
-
-## 🌟 Acknowledgments
-
-Developed through collaboration between government, academia, and industry partners, with support from:
-
-- NITI Aayog
-- Ministry of Education
-- State Education Departments
-- Technology Partners
-- Academic Institutions
-
-## 📫 Contact
-
-- For implementation support: contact@saketposwal.com
-- For technical queries: contact@saketposwal.com
-- For partnerships: contact@saketposwal.com
+License: MIT (see LICENSE).
