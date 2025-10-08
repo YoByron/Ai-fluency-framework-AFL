@@ -85,6 +85,11 @@ By the end of AFL‑1, learners will be able to:
 - CACF quick‑reference guide
 - Access to sandbox AI tools for practice
 
+### Cross-links
+- Samples: assessment/afl/afl1/samples/prompt_lab.md
+- Sector modules: curriculum/sectors/{education,agriculture,governance,msme,healthcare,financial-services}/modules/
+- Case studies: case_studies/*/*
+
 ---
 
 ## Certification
