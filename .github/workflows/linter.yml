@@ -1,0 +1,13 @@
+name: Repository Linter
+
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - name: Run Linter Script
+        run: sh ./scripts/lint_repo.sh

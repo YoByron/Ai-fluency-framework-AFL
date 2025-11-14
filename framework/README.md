@@ -7,11 +7,13 @@ This directory contains the core specifications for both the AI Fluency Levels (
 The AI Fluency Framework integrates two complementary systems:
 
 ### AI Fluency Levels (AFL) - India Implementation
-A 4-tier certification system designed for India's context:
-- **AFL-0:** AI Awareness (500M citizens by 2030)
-- **AFL-1:** AI Interaction (100M citizens by 2032)
-- **AFL-2:** AI Integration (20M citizens by 2035)
-- **AFL-3:** AI Orchestration (2M citizens by 2040)
+A 6-tier certification system designed for India's context, from foundational awareness to global thought leadership:
+- **AFL-0:** AI Awareness
+- **AFL-1:** AI Interaction
+- **AFL-2:** AI Integration
+- **AFL-3:** AI Orchestration
+- **AFL-4:** AI Strategy & Leadership
+- **AFL-5:** AI Thought Leadership
 
 ### Comprehensive AI Fluency Framework (CAFF) - Global Standards
 A 6-tier competency framework synthesizing 25+ international frameworks:
@@ -31,7 +33,9 @@ framework/
 │   ├── afl-0-awareness.md
 │   ├── afl-1-interaction.md
 │   ├── afl-2-integration.md
-│   └── afl-3-orchestration.md
+│   ├── afl-3-orchestration.md
+│   ├── afl-4-strategy.md
+│   └── afl-5-thought-leadership.md
 ├── caff/                   # CAFF-specific specifications
 │   ├── tier-1-awareness.md
 │   ├── tier-2-interaction.md
@@ -113,9 +117,11 @@ All frameworks address six cross-cutting domains:
 | AFL Tier | CAFF Tier(s) | Primary Focus | Typical Learners |
 |----------|--------------|---------------|------------------|
 | AFL-0 | CAFF Tier 1 | Awareness, Rights | General public, students |
-| AFL-1 | CAFF Tiers 2-3 | Interaction, Evaluation | Knowledge workers, educators |
-| AFL-2 | CAFF Tiers 3-4 | Integration, Innovation | Managers, domain experts |
-| AFL-3 | CAFF Tiers 5-6 | Strategy, Leadership | Executives, policymakers |
+| AFL-1 | CAFF Tiers 2 | Interaction, Application | Knowledge workers, educators |
+| AFL-2 | CAFF Tiers 3 | Integration, Evaluation | Managers, domain experts |
+| AFL-3 | CAFF Tier 4 | Orchestration, Innovation | Senior managers, architects |
+| AFL-4 | CAFF Tier 5 | Strategy, Leadership | Executives, policymakers |
+| AFL-5 | CAFF Tier 6 | Thought Leadership, Research | National leaders, senior fellows |
 
 See [integration-matrix.md](integration-matrix.md) for detailed mapping.
 
