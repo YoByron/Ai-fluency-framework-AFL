@@ -8,9 +8,11 @@ __pycache__/
 # Data
 *.csv
 *.json
+!platform/**/*.json
 # Model files
 *.onnx
 # Diagrams
 *.png
+!platform/**/*.png
 # misc
 mynotes/
