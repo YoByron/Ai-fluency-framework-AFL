@@ -16,3 +16,5 @@ __pycache__/
 !platform/**/*.png
 # misc
 mynotes/
+docs/
+research/
