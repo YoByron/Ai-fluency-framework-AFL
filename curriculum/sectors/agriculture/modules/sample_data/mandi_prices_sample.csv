@@ -1,0 +1,5 @@
+ date,commodity,market,price_rs_per_kg,state
+ 2025-07-01,Tomato,Thrissur,20,KL
+ 2025-07-01,Paddy,Thrissur,28,KL
+ 2025-07-02,Tomato,Thrissur,22,KL
+ 2025-07-02,Paddy,Thrissur,27,KL

@@ -1,0 +1,4 @@
+ student_id,student_name,month,attendance_pct,parent_language
+ S-001,Aarav,2025-07,92,Hindi
+ S-002,Diya,2025-07,88,English
+ S-003,Manoj,2025-07,96,Malayalam

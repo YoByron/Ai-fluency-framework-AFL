@@ -1,0 +1,5 @@
+ date,dept,visit_type,wait_min,language,discharged
+ 2025-07-01,Medicine,OPD,35,English,Yes
+ 2025-07-01,Pediatrics,OPD,25,Hindi,Yes
+ 2025-07-02,Surgery,IPD,0,English,No
+ 2025-07-02,Medicine,OPD,40,Malayalam,Yes

@@ -6,7 +6,7 @@ A comprehensive **curriculum and assessment framework** that transforms citizens
 
 > **What This Is:** A comprehensive AI literacy framework with detailed curricula, assessments, rubrics, and policy guides for educational institutions and organizations.
 >
-> **What This Isn't:** A software platform or deployable application (see [AUDIT_REPORT.md](AFL_FRAMEWORK_AUDIT_REPORT.md) for details).
+> **What This Isn't:** A software platform or deployable application (see [audit report](docs/audit/AFL_FRAMEWORK_AUDIT_REPORT.md) for details).
 
 ---
 
@@ -60,7 +60,6 @@ From digital literacy to global thought leadership:
 ```bash
 python economic_impact/productivity_calculator.py --scenario base --years 5 --investment-crores 8000 --crores
 ```
-- ✅ **Sensitivity Analysis** - Monte Carlo simulations for risk assessment (framework only)
 
 ---
 
@@ -221,23 +220,25 @@ The AFL Framework succeeds through partnerships:
 
 ---
 
-## ⚠️ Code Status & Technical Notes
+## ⚠️ Scope & Technical Notes
 
 **IMPORTANT - PLEASE READ:**
 
-This repository contains **primarily curriculum and assessment framework documentation** (90%). The code present is:
-- ✅ **1 working tool** - Economic Productivity Calculator (production-ready)
-- ⚠️ **Demo/educational examples** - Not production code, conceptual only
-- ❌ **NOT a software platform** - No backend, no ML models, no authentication
+This repository is a **curriculum and assessment standard** — not a software platform. It is intentionally content-first:
+- ✅ **Curriculum, assessments, rubrics, and policy guides** for AFL-0 through AFL-5
+- ✅ **1 supporting tool** - Economic Productivity Calculator (Python, runnable)
+- ❌ **NOT a software platform** - no backend, no ML models, no authentication, no app
 
-**For detailed audit:** [AFL_FRAMEWORK_AUDIT_REPORT.md](AFL_FRAMEWORK_AUDIT_REPORT.md)
-**Quick summary:** [QUICK_AUDIT_SUMMARY.md](QUICK_AUDIT_SUMMARY.md)
+Earlier versions of this repo shipped half-built demo code (a non-building React scaffold, a Streamlit demo, mock "ML" compliance tools). Those have been removed so the repository honestly reflects what it is. Design notes for a possible future platform are preserved under [docs/future-platform/](docs/future-platform/).
 
-**To implement AFL framework**, organizations should:
+**For the full audit that informed this decision:** [docs/audit/AFL_FRAMEWORK_AUDIT_REPORT.md](docs/audit/AFL_FRAMEWORK_AUDIT_REPORT.md)
+**Quick summary:** [docs/audit/QUICK_AUDIT_SUMMARY.md](docs/audit/QUICK_AUDIT_SUMMARY.md)
+
+**To implement the AFL framework**, organizations should:
 1. Use AFL curriculum with existing LMS platforms
 2. Integrate AFL assessments into existing systems
 3. Use AFL rubrics for evaluation and certification
-4. Partner with EdTech companies for technology platform
+4. Partner with EdTech companies for the technology platform
 
 ---
 
@@ -257,16 +258,7 @@ python economic_impact/productivity_calculator.py \
 
 **Output:** Productivity gains, payback period, ROI analysis
 
-### **Conceptual Demonstration Tools** ⚠️
-*For educational purposes only, not production code*
-
-```bash
-# Example compliance checking (conceptual demo)
-sh tools/compliance-checker/run_examples.sh
-
-# Sensitivity analysis (framework only)
-python tools/sensitivity-analysis/monte_carlo.py
-```
+This is the only executable tool in the repository. Everything else is curriculum, assessment, and policy content.
 
 ---
 

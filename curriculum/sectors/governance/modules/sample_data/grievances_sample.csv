@@ -1,0 +1,5 @@
+ ticket_id,department,category,priority,state,created_at,status
+ G-1001,Revenue,Land Record,High,KA,2025-07-01,Open
+ G-1002,Health,Hospital Wait Time,Medium,UP,2025-07-02,Closed
+ G-1003,Education,Scholarship Delay,High,KL,2025-07-03,In Progress
+ G-1004,Transport,Road Repair,Low,CT,2025-07-04,Open

@@ -1,0 +1,5 @@
+ txn_id,amount,merchant,channel,flag_reason,state
+ T-5001,1200,ABC Mart,POS,,KA
+ T-5002,85000,XYZ Transfers,Online,High Amount,UP
+ T-5003,499,Online Sub,Online,,MH
+ T-5004,150000,Remit Ltd,Online,Unusual Pattern,DL

@@ -1,20 +1,19 @@
 # Python
 *.pyc
 __pycache__/
+
 # Jupyter
 .ipynb_checkpoints
-# VS Code
+
+# Node / JS build artifacts
+node_modules/
+dist/
+
+# Editors
 .vscode/
-# Data
-*.csv
-*.json
-!platform/**/*.json
-# Model files
+
+# Model artifacts
 *.onnx
-# Diagrams
-*.png
-!platform/**/*.png
-# misc
+
+# Local working notes (drafts, not part of the published framework)
 mynotes/
-docs/
-research/
